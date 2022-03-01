@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+*{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+}
+
+.mainbox{
+    position:absolute;
+    width: 90vw;
+    height: calc(90vh + 18.75vw);
+    left: 5vw;
+    top: 5vh;
+    
+    background-color: #ffffff;
+    border-radius: 2vw;
+}
+
+.profile{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    top: 1vh;
+    font-weight: 800;
+    font-size: 5vw;
+    text-align: center;
+    vertical-align: middle;
+    
+    color: #8B7FDF;
+}
+
+.foto{
+    position: absolute;
+    width: 12.5vw;
+    height: auto;
+    top: 14vh;
+    left: 5vw;
+
+}
+
+img{
+    max-width: 100%;
+    border-radius: 20px;
+}
+
+.bio{
+    position:absolute;
+    width: auto;
+    height: auto;
+    top: 14vh;
+    left: 22.5vw;
+
+    font-weight: 500;
+    font-size: 2vw;
+    color: #8B7FDF;
+}
+
+.biocontent{
+    position:absolute;
+    width: auto;
+    height: auto;
+    top: 14vh;
+    left: 45vw;
+
+    font-weight: 500;
+    font-size: 2vw;
+    color: #8B7FDF;
+}
+
+.line{
+    position: absolute;
+    width: 5vw;
+    height: auto;
+    top: calc(14vh + 13.75vw);
+    left: 22.5vw;
+
+}
+
+.linenum{
+    position: absolute;
+    width: 5vw;
+    height: auto;
+    top: calc(14vh + 15vw);
+    left: 28.5vw;
+    font-weight: 700;
+    font-size: 2vw;
+    color: #8B7FDF;
+}
+
+.wa{
+    position: absolute;
+    width: 5vw;
+    height: auto;
+    top: calc(14vh + 13.75vw);
+    left: 45vw;
+
+}
+
+.wanum{
+    position: absolute;
+    width: 5vw;
+    height: auto;
+    top: calc(14vh + 15vw);
+    left: 51vw;
+    font-weight: 700;
+    font-size: 2vw;
+    color: #8B7FDF;
+}
+
+.capaian{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    top: calc(27vh + 18.75vw);
+    font-weight: 800;
+    font-size: 5vw;
+    text-align: center;
+    vertical-align: middle;
+    
+    color: #8B7FDF;
+}
+
+.capaiantxt{
+    position:absolute;
+    width: auto;
+    height: auto;
+    top: calc(40vh + 18.75vw);
+    left: 5vw;
+
+    font-weight: 500;
+    font-size: 2vw;
+    color: #8B7FDF;
+}
+
+.target{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    top: calc(62vh + 18.75vw);
+    font-weight: 800;
+    font-size: 5vw;
+    text-align: center;
+    vertical-align: middle;
+    
+    color: #8B7FDF;
+}
+
+.targettxt{
+    position:absolute;
+    width: auto;
+    height: auto;
+    top: calc(75vh + 18.75vw);
+    left: 5vw;
+
+    font-weight: 500;
+    font-size: 2vw;
+    color: #8B7FDF;
+}
+
+.botmargin{
+    position:absolute;
+    width: 90vw;
+    height: 5vh;
+    top: calc(90vh + 18.75vw);
+
+}
